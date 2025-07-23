@@ -1,0 +1,127 @@
+opportunity_id,lead_id,created_date,close_date,stage,amount,probability,assigned_rep,source,product,lost_reason,days_in_stage,last_activity_date
+OPP-2024-001,LD-2024-001,2024-01-10,2024-03-15,Closed Won,45000,100,Sarah Chen,Organic Search,RevOps Platform,,0,2024-03-15
+OPP-2024-002,LD-2024-002,2024-01-12,2024-04-10,Closed Won,78000,100,Mike Rodriguez,Paid Social,Enterprise Suite,,0,2024-04-10
+OPP-2024-003,LD-2024-004,2024-01-09,2024-03-30,Closed Won,125000,100,Jessica Park,Webinar,Enterprise Suite,,0,2024-03-30
+OPP-2024-004,LD-2024-006,2024-01-10,2024-02-28,Closed Won,32000,100,Sarah Chen,Partner Referral,Standard Plan,,0,2024-02-28
+OPP-2024-005,LD-2024-008,2024-01-14,2024-04-15,Negotiation,55000,85,Jessica Park,Trade Show,RevOps Platform,,12,2024-07-20
+OPP-2024-006,LD-2024-009,2024-01-16,2024-03-01,Closed Lost,42000,0,Tom Wilson,Paid Social,Standard Plan,Budget constraints,0,2024-03-01
+OPP-2024-007,LD-2024-011,2024-01-18,2024-05-01,Closed Won,67000,100,Mike Rodriguez,Organic Search,RevOps Platform,,0,2024-05-01
+OPP-2024-008,LD-2024-012,2024-01-17,2024-04-20,Closed Won,89000,100,Jessica Park,Webinar,Enterprise Suite,,0,2024-04-20
+OPP-2024-009,LD-2024-014,2024-01-19,2024-03-15,Closed Won,156000,100,Sarah Chen,Partner Referral,Enterprise Suite,,0,2024-03-15
+OPP-2024-010,LD-2024-015,2024-01-21,2024-04-30,Proposal,72000,75,Mike Rodriguez,Trade Show,RevOps Platform,,8,2024-07-18
+OPP-2024-011,LD-2024-018,2024-01-25,2024-04-10,Closed Won,95000,100,Sarah Chen,Paid Social,Enterprise Suite,,0,2024-04-10
+OPP-2024-012,LD-2024-019,2024-01-24,2024-05-15,Closed Won,41000,100,Mike Rodriguez,Webinar,Standard Plan,,0,2024-05-15
+OPP-2024-013,LD-2024-021,2024-01-29,2024-04-25,Closed Won,83000,100,Tom Wilson,Organic Search,RevOps Platform,,0,2024-04-25
+OPP-2024-014,LD-2024-022,2024-01-29,2024-03-20,Closed Won,38000,100,Sarah Chen,Trade Show,Standard Plan,,0,2024-03-20
+OPP-2024-015,LD-2024-024,2024-01-30,2024-04-05,Closed Won,147000,100,Jessica Park,Partner Referral,Enterprise Suite,,0,2024-04-05
+OPP-2024-016,LD-2024-027,2024-02-02,2024-05-20,Closed Won,76000,100,Mike Rodriguez,Webinar,RevOps Platform,,0,2024-05-20
+OPP-2024-017,LD-2024-028,2024-02-06,2024-04-15,Closed Lost,28000,0,Jessica Park,Paid Search,Standard Plan,Competition,0,2024-04-15
+OPP-2024-018,LD-2024-029,2024-02-05,2024-05-10,Closed Won,64000,100,Tom Wilson,Trade Show,RevOps Platform,,0,2024-05-10
+OPP-2024-019,LD-2024-031,2024-02-08,2024-05-25,Closed Won,92000,100,Mike Rodriguez,Organic Search,Enterprise Suite,,0,2024-05-25
+OPP-2024-020,LD-2024-033,2024-02-08,2024-04-30,Closed Won,58000,100,Tom Wilson,Webinar,RevOps Platform,,0,2024-04-30
+OPP-2024-021,LD-2024-034,2024-02-09,2024-05-05,Closed Won,134000,100,Sarah Chen,Partner Referral,Enterprise Suite,,0,2024-05-05
+OPP-2024-022,LD-2024-036,2024-02-12,2024-05-15,Closed Won,49000,100,Jessica Park,Trade Show,Standard Plan,,0,2024-05-15
+OPP-2024-023,LD-2024-039,2024-02-16,2024-05-30,Closed Won,87000,100,Mike Rodriguez,Paid Social,RevOps Platform,,0,2024-05-30
+OPP-2024-024,LD-2024-040,2024-02-15,2024-06-10,Closed Won,178000,100,Jessica Park,Webinar,Enterprise Suite,,0,2024-06-10
+OPP-2024-025,LD-2024-041,2024-02-19,2024-05-20,Closed Won,61000,100,Tom Wilson,Organic Search,RevOps Platform,,0,2024-05-20
+OPP-2024-026,LD-2024-042,2024-02-18,2024-06-15,Closed Won,112000,100,Sarah Chen,Partner Referral,Enterprise Suite,,0,2024-06-15
+OPP-2024-027,LD-2024-043,2024-02-20,2024-05-25,Closed Won,73000,100,Mike Rodriguez,Trade Show,RevOps Platform,,0,2024-05-25
+OPP-2024-028,LD-2024-046,2024-02-24,2024-06-20,Closed Won,98000,100,Sarah Chen,Paid Social,Enterprise Suite,,0,2024-06-20
+OPP-2024-029,LD-2024-048,2024-02-24,2024-06-05,Closed Won,84000,100,Jessica Park,Webinar,RevOps Platform,,0,2024-06-05
+OPP-2024-030,LD-2024-049,2024-02-26,2024-05-30,Closed Won,47000,100,Tom Wilson,Trade Show,Standard Plan,,0,2024-05-30
+OPP-2024-031,LD-2024-051,2024-02-27,2024-06-25,Closed Won,163000,100,Mike Rodriguez,Partner Referral,Enterprise Suite,,0,2024-06-25
+OPP-2024-032,LD-2024-053,2024-03-03,2024-06-10,Closed Won,89000,100,Tom Wilson,Organic Search,RevOps Platform,,0,2024-06-10
+OPP-2024-033,LD-2024-055,2024-03-03,2024-06-15,Closed Won,52000,100,Mike Rodriguez,Webinar,Standard Plan,,0,2024-06-15
+OPP-2024-034,LD-2024-056,2024-03-05,2024-06-20,Closed Won,127000,100,Jessica Park,Trade Show,Enterprise Suite,,0,2024-06-20
+OPP-2024-035,LD-2024-057,2024-03-08,2024-06-25,Closed Lost,34000,0,Tom Wilson,Paid Search,Standard Plan,Timeline mismatch,0,2024-06-25
+OPP-2024-036,LD-2024-060,2024-03-07,2024-07-05,Closed Won,195000,100,Jessica Park,Partner Referral,Enterprise Suite,,0,2024-07-05
+OPP-2024-037,LD-2024-061,2024-03-10,2024-06-30,Closed Won,76000,100,Tom Wilson,Paid Social,RevOps Platform,,0,2024-06-30
+OPP-2024-038,LD-2024-062,2024-03-09,2024-06-15,Closed Won,43000,100,Sarah Chen,Webinar,Standard Plan,,0,2024-06-15
+OPP-2024-039,LD-2024-063,2024-03-11,2024-07-10,Closed Won,108000,100,Mike Rodriguez,Trade Show,Enterprise Suite,,0,2024-07-10
+OPP-2024-040,LD-2024-067,2024-03-17,2024-06-20,Closed Lost,29000,0,Mike Rodriguez,Paid Social,Standard Plan,Budget constraints,0,2024-06-20
+OPP-2024-041,LD-2024-068,2024-03-15,2024-07-15,Closed Won,91000,100,Jessica Park,Webinar,RevOps Platform,,0,2024-07-15
+OPP-2024-042,LD-2024-069,2024-03-16,2024-07-20,Closed Won,172000,100,Tom Wilson,Partner Referral,Enterprise Suite,,0,2024-07-20
+OPP-2024-043,LD-2024-070,2024-03-18,2024-06-25,Closed Won,58000,100,Sarah Chen,Trade Show,RevOps Platform,,0,2024-06-25
+OPP-2024-044,LD-2024-074,2024-03-23,2024-07-25,Closed Won,85000,100,Sarah Chen,Paid Social,RevOps Platform,,0,2024-07-25
+OPP-2024-045,LD-2024-075,2024-03-22,2024-07-10,Closed Won,39000,100,Mike Rodriguez,Webinar,Standard Plan,,0,2024-07-10
+OPP-2024-046,LD-2024-076,2024-03-24,2024-07-30,Closed Won,119000,100,Jessica Park,Trade Show,Enterprise Suite,,0,2024-07-30
+OPP-2024-047,LD-2024-077,2024-03-26,2024-07-05,Closed Won,67000,100,Tom Wilson,Organic Search,RevOps Platform,,0,2024-07-05
+OPP-2024-048,LD-2024-078,2024-03-25,2024-08-10,Negotiation,203000,90,Sarah Chen,Partner Referral,Enterprise Suite,,15,2024-07-22
+OPP-2024-049,LD-2024-081,2024-03-30,2024-07-15,Closed Won,48000,100,Tom Wilson,Paid Social,Standard Plan,,0,2024-07-15
+OPP-2024-050,LD-2024-082,2024-03-29,2024-08-15,Closed Won,96000,100,Sarah Chen,Webinar,RevOps Platform,,0,2024-08-15
+OPP-2024-051,LD-2024-083,2024-03-31,2024-07-20,Closed Won,54000,100,Mike Rodriguez,Trade Show,Standard Plan,,0,2024-07-20
+OPP-2024-052,LD-2024-085,2024-04-04,2024-07-25,Closed Lost,26000,0,Tom Wilson,Paid Search,Standard Plan,Competition,0,2024-07-25
+OPP-2024-053,LD-2024-086,2024-04-02,2024-08-20,Proposal,189000,80,Sarah Chen,Partner Referral,Enterprise Suite,,18,2024-07-21
+OPP-2024-054,LD-2024-088,2024-04-06,2024-08-05,Closed Won,73000,100,Jessica Park,Paid Social,RevOps Platform,,0,2024-08-05
+OPP-2024-055,LD-2024-089,2024-04-05,2024-07-30,Closed Won,41000,100,Tom Wilson,Webinar,Standard Plan,,0,2024-07-30
+OPP-2024-056,LD-2024-090,2024-04-07,2024-08-10,Closed Won,105000,100,Sarah Chen,Trade Show,Enterprise Suite,,0,2024-08-10
+OPP-2024-057,LD-2024-091,2024-04-09,2024-08-15,Closed Won,62000,100,Mike Rodriguez,Organic Search,RevOps Platform,,0,2024-08-15
+OPP-2024-058,LD-2024-094,2024-04-10,2024-09-05,Demo,176000,65,Sarah Chen,Partner Referral,Enterprise Suite,,25,2024-07-19
+OPP-2024-059,LD-2024-095,2024-04-14,2024-08-20,Closed Won,33000,100,Mike Rodriguez,Paid Social,Standard Plan,,0,2024-08-20
+OPP-2024-060,LD-2024-096,2024-04-12,2024-09-10,Proposal,88000,75,Jessica Park,Webinar,RevOps Platform,,22,2024-07-17
+OPP-2024-061,LD-2024-097,2024-04-14,2024-08-25,Closed Won,51000,100,Tom Wilson,Trade Show,Standard Plan,,0,2024-08-25
+OPP-2024-062,LD-2024-101,2024-04-17,2024-09-15,Discovery,98000,40,Tom Wilson,Partner Referral,Enterprise Suite,,45,2024-07-16
+OPP-2024-063,LD-2024-102,2024-04-20,2024-09-20,Negotiation,142000,85,Sarah Chen,Paid Social,Enterprise Suite,,19,2024-07-23
+OPP-2024-064,LD-2024-103,2024-04-19,2024-08-30,Closed Won,79000,100,Mike Rodriguez,Webinar,RevOps Platform,,0,2024-08-30
+OPP-2024-065,LD-2024-104,2024-04-21,2024-09-25,Demo,47000,55,Jessica Park,Trade Show,Standard Plan,,31,2024-07-15
+OPP-2024-066,LD-2024-105,2024-04-23,2024-09-05,Closed Won,65000,100,Tom Wilson,Organic Search,RevOps Platform,,0,2024-09-05
+OPP-2024-067,LD-2024-108,2024-04-24,2024-10-10,Discovery,167000,35,Jessica Park,Partner Referral,Enterprise Suite,,52,2024-07-14
+OPP-2024-068,LD-2024-109,2024-04-28,2024-09-10,Closed Won,36000,100,Tom Wilson,Paid Social,Standard Plan,,0,2024-09-10
+OPP-2024-069,LD-2024-110,2024-04-26,2024-10-15,Proposal,93000,70,Sarah Chen,Webinar,RevOps Platform,,27,2024-07-20
+OPP-2024-070,LD-2024-111,2024-04-28,2024-09-15,Closed Won,58000,100,Mike Rodriguez,Trade Show,Standard Plan,,0,2024-09-15
+OPP-2024-071,LD-2024-115,2024-05-01,2024-10-20,Demo,124000,60,Mike Rodriguez,Partner Referral,Enterprise Suite,,38,2024-07-18
+OPP-2024-072,LD-2024-116,2024-05-04,2024-10-25,Discovery,189000,45,Jessica Park,Paid Social,Enterprise Suite,,41,2024-07-17
+OPP-2024-073,LD-2024-117,2024-05-03,2024-09-20,Closed Won,71000,100,Tom Wilson,Webinar,RevOps Platform,,0,2024-09-20
+OPP-2024-074,LD-2024-118,2024-05-05,2024-10-30,Proposal,84000,75,Sarah Chen,Trade Show,RevOps Platform,,24,2024-07-21
+OPP-2024-075,LD-2024-119,2024-05-07,2024-09-25,Closed Won,49000,100,Mike Rodriguez,Organic Search,Standard Plan,,0,2024-09-25
+OPP-2024-076,LD-2024-122,2024-05-08,2024-11-05,Discovery,201000,40,Sarah Chen,Partner Referral,Enterprise Suite,,48,2024-07-16
+OPP-2024-077,LD-2024-123,2024-05-12,2024-10-05,Closed Won,42000,100,Mike Rodriguez,Paid Social,Standard Plan,,0,2024-10-05
+OPP-2024-078,LD-2024-124,2024-05-10,2024-11-10,Demo,97000,65,Jessica Park,Webinar,RevOps Platform,,35,2024-07-19
+OPP-2024-079,LD-2024-125,2024-05-12,2024-10-10,Closed Won,56000,100,Tom Wilson,Trade Show,Standard Plan,,0,2024-10-10
+OPP-2024-080,LD-2024-129,2024-05-15,2024-11-15,Proposal,133000,80,Tom Wilson,Partner Referral,Enterprise Suite,,21,2024-07-22
+OPP-2024-081,LD-2024-130,2024-05-18,2024-11-20,Discovery,176000,45,Sarah Chen,Paid Social,Enterprise Suite,,44,2024-07-17
+OPP-2024-082,LD-2024-131,2024-05-17,2024-10-15,Closed Won,68000,100,Mike Rodriguez,Webinar,RevOps Platform,,0,2024-10-15
+OPP-2024-083,LD-2024-132,2024-05-19,2024-10-20,Closed Won,52000,100,Jessica Park,Trade Show,Standard Plan,,0,2024-10-20
+OPP-2024-084,LD-2024-133,2024-05-21,2024-10-25,Closed Won,74000,100,Tom Wilson,Organic Search,RevOps Platform,,0,2024-10-25
+OPP-2024-085,LD-2024-136,2024-05-22,2024-11-25,Demo,198000,60,Jessica Park,Partner Referral,Enterprise Suite,,32,2024-07-20
+OPP-2024-086,LD-2024-137,2024-05-26,2024-10-30,Closed Won,39000,100,Tom Wilson,Paid Social,Standard Plan,,0,2024-10-30
+OPP-2024-087,LD-2024-138,2024-05-24,2024-11-30,Proposal,89000,75,Sarah Chen,Webinar,RevOps Platform,,26,2024-07-21
+OPP-2024-088,LD-2024-139,2024-05-26,2024-11-05,Closed Won,45000,100,Mike Rodriguez,Trade Show,Standard Plan,,0,2024-11-05
+OPP-2024-089,LD-2024-143,2024-05-29,2024-12-05,Discovery,116000,40,Mike Rodriguez,Partner Referral,Enterprise Suite,,47,2024-07-18
+OPP-2024-090,LD-2024-144,2024-06-01,2024-11-10,Closed Won,158000,100,Jessica Park,Paid Social,Enterprise Suite,,0,2024-11-10
+OPP-2024-091,LD-2024-145,2024-05-31,2024-11-15,Closed Won,63000,100,Tom Wilson,Webinar,RevOps Platform,,0,2024-11-15
+OPP-2024-092,LD-2024-146,2024-06-02,2024-11-20,Closed Won,81000,100,Sarah Chen,Trade Show,RevOps Platform,,0,2024-11-20
+OPP-2024-093,LD-2024-147,2024-06-04,2024-11-25,Closed Won,57000,100,Mike Rodriguez,Organic Search,Standard Plan,,0,2024-11-25
+OPP-2024-094,LD-2024-150,2024-06-05,2024-12-10,Demo,173000,55,Sarah Chen,Partner Referral,Enterprise Suite,,29,2024-07-22
+OPP-2024-095,LD-2024-151,2024-06-09,2024-11-30,Closed Won,34000,100,Mike Rodriguez,Paid Social,Standard Plan,,0,2024-11-30
+OPP-2024-096,LD-2024-152,2024-06-07,2024-12-15,Proposal,95000,70,Jessica Park,Webinar,RevOps Platform,,23,2024-07-19
+OPP-2024-097,LD-2024-153,2024-06-09,2024-12-05,Closed Won,48000,100,Tom Wilson,Trade Show,Standard Plan,,0,2024-12-05
+OPP-2024-098,LD-2024-157,2024-06-12,2024-12-20,Discovery,127000,35,Tom Wilson,Partner Referral,Enterprise Suite,,50,2024-07-16
+OPP-2024-099,LD-2024-158,2024-06-15,2024-12-10,Negotiation,164000,85,Sarah Chen,Paid Social,Enterprise Suite,,16,2024-07-23
+OPP-2024-100,LD-2024-159,2024-06-14,2024-12-15,Closed Won,72000,100,Mike Rodriguez,Webinar,RevOps Platform,,0,2024-12-15
+OPP-2024-101,LD-2024-160,2024-06-16,2024-12-20,Closed Won,87000,100,Jessica Park,Trade Show,RevOps Platform,,0,2024-12-20
+OPP-2024-102,LD-2024-161,2024-06-18,2024-12-25,Closed Won,61000,100,Tom Wilson,Organic Search,RevOps Platform,,0,2024-12-25
+OPP-2024-103,LD-2024-164,2024-06-19,2025-01-10,Demo,192000,60,Jessica Park,Partner Referral,Enterprise Suite,,33,2024-07-20
+OPP-2024-104,LD-2024-165,2024-06-23,2024-12-30,Closed Won,37000,100,Tom Wilson,Paid Social,Standard Plan,,0,2024-12-30
+OPP-2024-105,LD-2024-166,2024-06-21,2025-01-15,Proposal,91000,75,Sarah Chen,Webinar,RevOps Platform,,25,2024-07-21
+OPP-2024-106,LD-2024-167,2024-06-23,2025-01-05,Closed Won,53000,100,Mike Rodriguez,Trade Show,Standard Plan,,0,2025-01-05
+OPP-2024-107,LD-2024-171,2024-06-26,2025-01-20,Discovery,119000,40,Mike Rodriguez,Partner Referral,Enterprise Suite,,46,2024-07-17
+OPP-2024-108,LD-2024-172,2024-06-29,2025-01-25,Demo,147000,65,Jessica Park,Paid Social,Enterprise Suite,,36,2024-07-18
+OPP-2024-109,LD-2024-173,2024-06-28,2025-01-10,Closed Won,76000,100,Tom Wilson,Webinar,RevOps Platform,,0,2025-01-10
+OPP-2024-110,LD-2024-174,2024-06-30,2025-01-30,Proposal,83000,70,Sarah Chen,Trade Show,RevOps Platform,,22,2024-07-22
+OPP-2024-111,LD-2024-175,2024-07-02,2025-01-15,Closed Won,59000,100,Mike Rodriguez,Organic Search,RevOps Platform,,0,2025-01-15
+OPP-2024-112,LD-2024-178,2024-07-03,2025-02-05,Discovery,185000,35,Sarah Chen,Partner Referral,Enterprise Suite,,49,2024-07-16
+OPP-2024-113,LD-2024-179,2024-07-07,2025-01-20,Closed Won,42000,100,Mike Rodriguez,Paid Social,Standard Plan,,0,2025-01-20
+OPP-2024-114,LD-2024-180,2024-07-05,2025-02-10,Negotiation,97000,80,Jessica Park,Webinar,RevOps Platform,,17,2024-07-23
+OPP-2024-115,LD-2024-181,2024-07-07,2025-01-25,Closed Won,55000,100,Tom Wilson,Trade Show,Standard Plan,,0,2025-01-25
+OPP-2024-116,LD-2024-185,2024-07-10,2025-02-15,Demo,132000,55,Tom Wilson,Partner Referral,Enterprise Suite,,30,2024-07-19
+OPP-2024-117,LD-2024-186,2024-07-13,2025-02-20,Proposal,169000,75,Sarah Chen,Paid Social,Enterprise Suite,,24,2024-07-20
+OPP-2024-118,LD-2024-187,2024-07-12,2025-02-10,Closed Won,71000,100,Mike Rodriguez,Webinar,RevOps Platform,,0,2025-02-10
+OPP-2024-119,LD-2024-188,2024-07-14,2025-02-25,Discovery,86000,40,Jessica Park,Trade Show,RevOps Platform,,43,2024-07-18
+OPP-2024-120,LD-2024-189,2024-07-16,2025-02-15,Closed Won,64000,100,Tom Wilson,Organic Search,RevOps Platform,,0,2025-02-15
+OPP-2024-121,LD-2024-192,2024-07-17,2025-03-05,Demo,178000,60,Jessica Park,Partner Referral,Enterprise Suite,,34,2024-07-21
+OPP-2024-122,LD-2024-193,2024-07-21,2025-02-20,Closed Won,41000,100,Tom Wilson,Paid Social,Standard Plan,,0,2025-02-20
+OPP-2024-123,LD-2024-194,2024-07-19,2025-03-10,Proposal,93000,70,Sarah Chen,Webinar,RevOps Platform,,21,2024-07-22
+OPP-2024-124,LD-2024-195,2024-07-21,2025-02-25,Closed Won,49000,100,Mike Rodriguez,Trade Show,Standard Plan,,0,2025-02-25
+OPP-2024-125,LD-2024-199,2024-07-24,2025-03-15,Discovery,123000,35,Mike Rodriguez,Partner Referral,Enterprise Suite,,48,2024-07-17
+OPP-2024-126,LD-2024-200,2024-07-27,2025-03-20,Negotiation,156000,85,Jessica Park,Paid Social,Enterprise Suite,,18,2024-07-23

@@ -26,6 +26,7 @@ st.bar_chart(leads["source"].value_counts())
 st.header("👤 Rep Performance")
 pipeline_by_rep = opps.groupby("assigned_rep")["amount"].sum().reset_index()
 pipeline_by_rep.columns = ["Rep", "Total Pipeline ($)"]
+pipeline_by_rep["Total Pipeline ($)"] = pd.to_numeric(pipeline_by_rep["Total Pipeline ($)"], errors="coerce")
 st.dataframe(pipeline_by_rep)
 
 # Optional: Add a bar chart for visual impact

@@ -30,7 +30,18 @@ pipeline_by_rep["Total Pipeline ($)"] = pd.to_numeric(pipeline_by_rep["Total Pip
 st.dataframe(pipeline_by_rep)
 
 # Optional: Add a bar chart for visual impact
-st.bar_chart(pipeline_by_rep.set_index("Rep"))
+import altair as alt
+
+# Optional: Add a labeled bar chart for visual impact
+bar = alt.Chart(pipeline_by_rep).mark_bar().encode(
+    x=alt.X("Rep:N", title="Sales Rep"),
+    y=alt.Y("Total Pipeline ($):Q", title="Pipeline ($)")
+).properties(
+    title="Pipeline by Rep"
+)
+
+st.altair_chart(bar, use_container_width=True)
+
 
 # -------------------------------
 # Pipeline Stage Distribution

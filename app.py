@@ -36,7 +36,9 @@ insights = {
     "top_rep_total": top_rep_total,
     "top_source": top_source,
     "top_conversion_source": top_conversion_source,
-    "longest_stage": longest_sta
+    "longest_stage": longest_stage,
+    "recent_avg_pipeline": recent_avg
+}
 
 # -------------------------------
 # Funnel Overview

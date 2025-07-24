@@ -59,3 +59,15 @@ opps["weighted_amount"] = opps["amount"] * (opps["probability"] / 100)
 forecast = opps.groupby("stage")["weighted_amount"].sum().reset_index()
 forecast.columns = ["Stage", "Weighted Pipeline ($)"]
 st.dataframe(forecast)
+
+st.header("🧠 Key Insights")
+
+st.markdown(f"**🏆 Top Performer:** {insights['top_rep_total']} has the highest total and forecast-weighted pipeline.")
+st.markdown(f"**🌱 Most Common Lead Source:** {insights['top_source']}")
+st.markdown(f"**🎯 Best-Converting Source:** {insights['top_conversion_source']} — highest conversion to opportunity.")
+st.markdown(f"**🐢 Longest-Stage Bottleneck:** {insights['longest_stage']} stage has the longest average time-in-stage.")
+
+if pd.isna(insights['recent_avg_pipeline']):
+    st.markdown("**📉 No new opportunities created in the past 30 days.**")
+else:
+    st.markdown(f"**📈 Recent Avg Pipeline Value:** ${insights['recent_avg_pipeline']:.2f} (last 30 days)")

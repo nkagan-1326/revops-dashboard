@@ -48,7 +48,9 @@ st.bar_chart(opps["stage"].value_counts())
 st.subheader("📈 Weighted Forecast by Stage")
 forecast = opps.groupby("stage")["weighted_amount"].sum().reset_index()
 forecast.columns = ["Stage", "Weighted Pipeline ($)"]
+forecast["Weighted Pipeline ($)"] = forecast["Weighted Pipeline ($)"].apply(lambda x: f"${x:,.0f}")
 st.dataframe(forecast)
+
 
 # Strategic Insights
 st.markdown("---")
@@ -71,7 +73,10 @@ st.markdown(f"**🏆 Top Performer:** {top_rep_total} leads in total and forecas
 st.markdown(f"**🌱 Most Common Lead Source:** {top_source}")
 st.markdown(f"**🎯 Best-Converting Source:** {top_conversion_source} — highest opportunity conversion.")
 st.markdown(f"**🐢 Longest Stage Delay:** {longest_stage} takes the longest on average.")
-if pd.isna(recent_avg):
-    st.warning("📉 No new opportunities created in the past 30 days.")
+if pd.isna(recent_avg) or recent_opps.empty:
+    st.warning("📉 No new opportunities created in the past 30 days — pipeline may be aging.")
+elif recent_avg < 10000:
+    st.info(f"📉 New opportunities created, but average value is low (${recent_avg:,.0f}).")
 else:
-    st.markdown(f"**📈 Recent Avg Pipeline Value:** ${recent_avg:,.0f}")
+    st.success(f"📈 Healthy recent pipeline activity — average value: ${recent_avg:,.0f}")
+

@@ -45,11 +45,25 @@ st.subheader("📊 Opportunity Stage Breakdown")
 st.bar_chart(opps["stage"].value_counts())
 
 # Forecast
-st.subheader("📈 Weighted Forecast by Stage")
-forecast = opps.groupby("stage")["weighted_amount"].sum().reset_index()
-forecast.columns = ["Stage", "Weighted Pipeline ($)"]
 forecast["Weighted Pipeline ($)"] = forecast["Weighted Pipeline ($)"].apply(lambda x: f"${x:,.0f}")
-st.dataframe(forecast)
+
+# Render a custom right-aligned markdown table
+table_html = forecast.to_html(index=False, justify="right", escape=False)
+
+# Style right-align for numeric column only
+styled_table = table_html.replace(
+    '<th>Weighted Pipeline ($)</th>',
+    '<th style="text-align:right">Weighted Pipeline ($)</th>'
+).replace(
+    '<td>', '<td style="text-align:right">'
+).replace(
+    '<td style="text-align:right">' + forecast["Stage"].iloc[0],
+    '<td style="text-align:left">' + forecast["Stage"].iloc[0]
+)
+
+st.markdown("### 💰 Weighted Pipeline by Stage")
+st.markdown(styled_table, unsafe_allow_html=True)
+
 
 
 # Strategic Insights
